@@ -51,4 +51,6 @@ if __name__ == '__main__':
     finish = perf_counter()
     print(f"Time: {finish - start: .3f} second(s)")
 
+# dastur Linuxda qilingan
+
 
